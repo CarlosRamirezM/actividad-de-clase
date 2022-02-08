@@ -1,0 +1,40 @@
+div {
+    font-weight: bold;
+    vertical-align: middle;
+    text-align: center;    
+}
+
+#banner {
+    height: 168px;
+    background-color: rgb(90, 27, 27);
+    color: white;
+}
+
+#footer {
+    height: 56px;
+    background-color: rgb(90, 27, 27);
+    color: white;
+}
+
+#leftMenu {
+    background-color: orange;
+}
+
+#topMenu {
+    height: 56px;
+    background-color: pink;
+}
+
+.photoA {
+    height: 56px;
+    background-color: darkmagenta;
+}
+
+.photoB {
+    height: 56px;
+    background-color:aqua;
+}
+
+.main {
+    height: 225px;
+}
